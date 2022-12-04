@@ -57,6 +57,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/webpack-demo/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
