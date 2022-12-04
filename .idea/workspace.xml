@@ -5,26 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d168a4d4-5770-4d16-aedd-af6fcdaaa493" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/my-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-app/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../my-app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../my-app/.idea/my-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../my-app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="author-libraries" />
+        <entry key="$PROJECT_DIR$" value="create-react-app" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +47,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IPp9fpsTK0KNGFK5dR1MnGc4Aq" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -58,7 +62,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "deletionFromPopupRequiresConfirmation": "false",
-    "last_opened_file_path": "/home/datpd/Desktop/git/datpd/poc-webpack",
+    "last_opened_file_path": "/home/datpd/Desktop/git/my-app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -114,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670092922896</updated>
       <workItem from="1670092924178" duration="4787000" />
-      <workItem from="1670097715385" duration="6114000" />
+      <workItem from="1670097715385" duration="6439000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1670093977665</created>
@@ -249,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670103675919</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="init">
+      <created>1670147984418</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670147984418</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
