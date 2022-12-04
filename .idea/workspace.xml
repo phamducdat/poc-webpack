@@ -4,31 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d168a4d4-5770-4d16-aedd-af6fcdaaa493" name="Changes" comment="init">
+    <list default="true" id="d168a4d4-5770-4d16-aedd-af6fcdaaa493" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../my-app/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../my-app/.idea/my-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../my-app/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-app/src/setupTests.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "deletionFromPopupRequiresConfirmation": "false",
-    "last_opened_file_path": "/home/datpd/Desktop/git/my-app",
+    "last_opened_file_path": "/home/datpd/Desktop/git/datpd/poc-webpack/public",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +63,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build (1)">
+  <component name="RunManager" selected="npm.start">
     <configuration name="build (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/my-app/package.json" />
       <command value="run" />
@@ -101,8 +84,19 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.build (1)" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.build" />
@@ -118,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670092922896</updated>
       <workItem from="1670092924178" duration="4787000" />
-      <workItem from="1670097715385" duration="6439000" />
+      <workItem from="1670097715385" duration="6741000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1670093977665</created>
@@ -260,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670147984418</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="update">
+      <created>1670148328797</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1670148328797</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,8 +269,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="update" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
