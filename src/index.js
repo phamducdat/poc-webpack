@@ -16,3 +16,11 @@ function component() {
 }
 
 document.body.appendChild(component());
+
+
+if (module.hot) {
+    modu.hot.accept('./print.js', function () {
+        console.log("Accepting the update printMe module!");
+        printMe();
+    })
+}
