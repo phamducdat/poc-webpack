@@ -5,7 +5,8 @@
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "build": "webpack",
+    "start": "serve dist"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   },
   "homepage": "https://github.com/phamducdat/poc-webpack#readme",
   "devDependencies": {
+    "serve": "^12.0.0",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.0"
   },
