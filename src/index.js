@@ -6,7 +6,7 @@ function component() {
     const btn = document.createElement('button');
     element.innerHTML = _.join(['Hello', 'webpack'], '')
 
-    btn.innerHTML = 'datpd!';
+    btn.innerHTML = 'datpd';
     btn.onclick = printMe;
 
     element.appendChild(btn);
