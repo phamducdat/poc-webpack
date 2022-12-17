@@ -1,6 +1,25 @@
-import React from 'react';
-import './styles.css';
-const MyComponent = () => (
-    <h1>Hello from My Component</h1>
-);
+import React, {useEffect} from 'react';
+import {Button} from "antd";
+
+const MyComponent = props => {
+
+
+    console.log("dat wit props = ", props)
+    console.log("dat with localStorage = ", localStorage)
+
+    useEffect(() => {
+        console.log("dat in useEffect")
+    }, [])
+
+    return (
+        <div>
+            <Button>
+                datpd
+            </Button>
+        </div>
+    );
+};
+
+MyComponent.propTypes = {};
+
 export default MyComponent;

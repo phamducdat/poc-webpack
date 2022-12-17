@@ -1,13 +1,14 @@
 {
   "name": "@datpd/my-component",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --mode development",
+    "start": "webpack server --mode development",
     "transpile": "babel src -d dist",
-    "prepublishOnly": "npm run transpile"
+    "prepublishOnly": "npm run transpile",
+    "public": "npm publish"
   },
   "author": "",
   "license": "ISC",
@@ -25,5 +26,8 @@
     "webpack": "^4.5.0",
     "webpack-cli": "^2.0.14",
     "webpack-dev-server": "^3.1.3"
+  },
+  "dependencies": {
+    "antd": "^5.0.7"
   }
 }
