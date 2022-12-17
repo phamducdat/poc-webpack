@@ -1,18 +1,19 @@
-import _ from 'lodash';
-import printMe from './print.js';
+import React from "react";
 
-function component() {
-    const element = document.createElement('div');
-    const btn = document.createElement('button');
+const MyReactApp = props => {
+    const { width, height, bgColor, content, color } = props;
+    return (
+        <div
+            style = {{
+                width: width || 200,
+                height: height || 200,
+                backgroundColor: bgColor || "green",
+                color: color || "black"
+            }}
+        >
+            {content}
+        </div>
+    );
+};
 
-    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-
-    btn.innerHTML = 'Click me and check the console!';
-    btn.onclick = printMe;
-
-    element.appendChild(btn);
-
-    return element;
-}
-
-document.body.appendChild(component());
+export default MyReactApp;
