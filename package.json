@@ -1,8 +1,11 @@
 {
-  "name": "poc-webpack",
-  "version": "1.0.0",
+  "name": "@datpd/poc-webpack",
+  "version": "0.0.2",
   "description": "",
-  "private": true,
+  "main": "dist/index.bundle.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"

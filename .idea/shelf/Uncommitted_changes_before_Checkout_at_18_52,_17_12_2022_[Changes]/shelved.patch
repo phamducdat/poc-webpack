@@ -1,0 +1,91 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"d168a4d4-5770-4d16-aedd-af6fcdaaa493\" name=\"Changes\" comment=\"update\">\n      <change afterPath=\"$PROJECT_DIR$/src/print.js\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/index.js\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/index.js\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"tree-shaking\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2IPp9fpsTK0KNGFK5dR1MnGc4Aq\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\n    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\n    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/home/datpd/Desktop/git/datpd/poc-webpack&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/webpack-demo/src\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"RunManager\">\n    <configuration name=\"build\" type=\"js.build_tools.npm\" temporary=\"true\" nameIsGenerated=\"true\">\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\n      <command value=\"run\" />\n      <scripts>\n        <script value=\"build\" />\n      </scripts>\n      <node-interpreter value=\"project\" />\n      <envs />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"npm.build\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"d168a4d4-5770-4d16-aedd-af6fcdaaa493\" name=\"Changes\" comment=\"\" />\n      <created>1670092922896</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1670092922896</updated>\n      <workItem from=\"1670092924178\" duration=\"4787000\" />\n      <workItem from=\"1670097715385\" duration=\"2623000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"update\">\n      <created>1670093977665</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670093977665</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"update\">\n      <created>1670094439540</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670094439540</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"update\">\n      <created>1670094756497</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670094756497</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"update\">\n      <created>1670094807547</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670094807547</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"update\">\n      <created>1670095042272</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670095042272</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"update\">\n      <created>1670095745634</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670095745634</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"update\">\n      <created>1670096159617</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670096159617</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"update\">\n      <created>1670097138612</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670097138612</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"update\">\n      <created>1670097625493</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670097625493</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"update\">\n      <created>1670098105088</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670098105088</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"update\">\n      <created>1670098174051</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670098174051</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"update\">\n      <created>1670098352205</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670098352205</updated>\n    </task>\n    <task id=\"LOCAL-00013\" summary=\"update\">\n      <created>1670098699098</created>\n      <option name=\"number\" value=\"00013\" />\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670098699098</updated>\n    </task>\n    <task id=\"LOCAL-00014\" summary=\"update\">\n      <created>1670099230425</created>\n      <option name=\"number\" value=\"00014\" />\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1670099230425</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"15\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\n    <MESSAGE value=\"update\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"update\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 318188c1e0c17c13345b31c619c2837f8e1dcc7f)
++++ b/.idea/workspace.xml	(date 1670167068917)
+@@ -4,11 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d168a4d4-5770-4d16-aedd-af6fcdaaa493" name="Changes" comment="update">
+-      <change afterPath="$PROJECT_DIR$/src/print.js" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+-    </list>
++    <list default="true" id="d168a4d4-5770-4d16-aedd-af6fcdaaa493" name="Changes" comment="init" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -33,24 +29,24 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/home/datpd/Desktop/git/datpd/poc-webpack&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "ASKED_ADD_EXTERNAL_FILES": "true",
++    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "WebServerToolWindowFactoryState": "false",
++    "deletionFromPopupRequiresConfirmation": "false",
++    "last_opened_file_path": "/home/datpd/Desktop/git/sample/webpack-module-federation/subA",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "settings.editor.selected.configurable": "preferences.editor",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$/webpack-demo/src" />
+@@ -185,7 +181,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1670099230425</updated>
+     </task>
+-    <option name="localTasksCounter" value="15" />
++    <task id="LOCAL-00015" summary="init">
++      <created>1670167053792</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1670167053792</updated>
++    </task>
++    <option name="localTasksCounter" value="16" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -194,6 +197,7 @@
+   <component name="VcsManagerConfiguration">
+     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+     <MESSAGE value="update" />
+-    <option name="LAST_COMMIT_MESSAGE" value="update" />
++    <MESSAGE value="init" />
++    <option name="LAST_COMMIT_MESSAGE" value="init" />
+   </component>
+ </project>
+\ No newline at end of file
